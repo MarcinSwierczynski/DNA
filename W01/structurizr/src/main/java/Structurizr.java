@@ -10,9 +10,9 @@ import com.structurizr.view.*;
  */
 public class Structurizr {
 
-    private static final long WORKSPACE_ID = 46882;
-    private static final String API_KEY = "c3b9d63a-5443-471e-abc6-2942b94094ac";
-    private static final String API_SECRET = "d57c2bdb-d0da-43e4-aaad-c2dbb31cf0d1";
+    private static final long WORKSPACE_ID = 0L;
+    private static final String API_KEY = "";
+    private static final String API_SECRET = "";
     private static final String EXISTING = "EXISTING";
     private static final String DATABASE = "database";
 
